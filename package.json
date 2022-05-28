@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
+      "live-server":"^1.2.2",
       "socket.io": "^4.5.1"
     },
     "scripts": {
