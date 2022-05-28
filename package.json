@@ -1,0 +1,12 @@
+{
+    "name": "wassup",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "socket.io": "^4.5.1"
+    },
+    "scripts": {
+      "start": "node ./MultiChat/nodeServer/index.js"
+    }
+  }
+  
