@@ -1,13 +1,42 @@
-## Project Name & Pitch
+## Project Title
+    Wassup 
+A Mood Detector based infotainment and Entertainment Website.
 
-#### Example:
+##  Project Description
+Wassup is a Mood Detector Based Web Application which detects a person's Mood and some more features and provides him/her with the best possible options he/she have according to the Mood.
 
-TweetWorld 
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+Technologies Used - NODE JS , face-api.js , SOCKET.IO , HTML , CSS , JAVASCRIPT , BOOTSTRAP
 
-## Project Status
-(only necessary if incomplete)
+
+Flow Of Website --
+->Home Page
+    Shows description of Website . Also shows Summary of the Website
+->Mood Detector
+    Detects Mood and some other features of a person and Redirects him/her directly to the options available to him/her on the Explore Page.
+->Explore Options
+    =>Sad | Angry | Sad Mood
+        ---This Sections Holds a variety of options for the people having Sad , Angry or disgusted Mood . Features include suggesting Vlogs , Suggesting Movies , Suggesting Web Series , Suggesting Motivational videos . 
+        ---InWebsite Features
+        MultiChat
+          Recommended Music
+        User Perspective Form
+        ---Other Features
+        Online Games
+          Motivational Quotes
+        Suggestions / Links to external forums.
+    =>  Happy / Jolly Mood
+        ---Same feautures as above + some bounty points to fill more and more user perspective Happy / Jolly Mood Form.    
+->Recommended Music
+    =>Songs that help users to keep Motivated and ReEnergised . 
+->Multi Chat
+    =>Allows multiple users of Different Mood to Chat Among themselves.
+->Contact Us
+    =>Contact Info
+->FeedBack
+    =>FeedBack is provided by the users.
+
+
 
 #### Example:
 
@@ -23,41 +52,34 @@ This project is currently in development. Users can filter tweets by username an
 
 ## Installation and Setup Instructions
 
-#### Example:  
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
-
 `npm install`  
 
-To Run Test Suite:  
+To run Chat Server:
+`npm run start-chat`
 
-`npm test`  
+Once the Chat Server has started . You are ready to go with project.
 
-To Start Server:
+To Run the Website:
+Go to     
+frontPage Folder of the Project
+and then inside it go to index.html page
+Go Live at index.html and website will start at Local Host.
 
-`npm start`  
-
-To Visit App:
-
-`localhost:3000/ideas`  
+`WASSUP -->  {frontPage} Folder -->  index.html  --> Start your Live Server`. 
 
 ## Reflection
+This was a Three week long project built during my Engage Mentorship at Microsoft. Project involves technologies related to Face - Detection.
 
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-  - What did you set out to build?
-  - Why was this project challenging and therefore a really good learning experience?
-  - What were some unexpected obstacles?
-  - What tools did you use to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
+I Made this project first by integrating face api to detect person mood and features. After that I added new features in it like Recommended Songs , Muti Chat Feature , Movies Suggestions , Vlogs Suggestions etc .
 
-#### Example:  
+There are many challenges I ran into during the making of this Project. One challenge is to make a real time multi chat using Socket.Io as this was my first time in Backened.
 
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+The Technologiies I used were NodeJs , Socket . Io , face-api.js , HTML , CSS ,Javascript .
 
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
+Finally I want to thanks my Mentor Ekta Maam and entire Microsoft Team to help me completing this project .
+Such Grateful ;-) .
 
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
