@@ -6,5 +6,5 @@ var dir = path.join(__dirname, "./");
 
 app.use(express.static(dir));
 
-app.listen(5000, () => console.log("Listening on http://localhost:5000/"));
+app.listen(3000, () => console.log("Listening on http://localhost:3000/"));
 
