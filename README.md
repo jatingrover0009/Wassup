@@ -1,5 +1,3 @@
-
-https://img.shields.io/badge/LinkedIn-blue
 ## Project Title
     Wassup 
 A Mood Detector based infotainment and Entertainment Website.
