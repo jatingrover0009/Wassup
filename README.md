@@ -83,6 +83,10 @@ To Start SocketIo Server and serve HTML front page:
 Server will run at http://localhost:5000
 
 Navigate to http://localhost:5000 . 
+
+
+
+
 ## Reflection
 This was a Three week long project built during my Engage Mentorship at Microsoft. Project involves technologies related to Face - Detection.
 
