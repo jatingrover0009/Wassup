@@ -1,3 +1,5 @@
+
+https://img.shields.io/badge/LinkedIn-blue
 ## Project Title
     Wassup 
 A Mood Detector based infotainment and Entertainment Website.
@@ -18,7 +20,7 @@ Flow Of Website --
 
 ->Mood Detector
 
-    Detects Mood and some other features of a person and Redirects him/her directly to the options available to him/her on the Explore Page.\
+    Detects Mood and some other features of a person and Redirects him/her directly to the options available to him/her on the Explore Page.
 
 
 ->Explore Options
@@ -28,7 +30,7 @@ Flow Of Website --
         ---This Sections Holds a variety of options for the people having Sad , Angry or disgusted Mood . Features include suggesting Vlogs , Suggesting Movies , Suggesting Web Series , Suggesting Motivational videos .\ 
 
         ---InWebsite Feature
-        MultiChat\
+        MultiChat
           Recommended Music
         User Perspective Form
         ---Other Features
