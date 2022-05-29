@@ -11,55 +11,55 @@ Technologies Used - NODE JS , face-api.js , SOCKET.IO , HTML , CSS , JAVASCRIPT 
 
 Flow Of Website --
 
-->**Home Page**<br>
+->Home Page<br>
 
     Shows description of Website . Also shows Summary of the Website<br>
 
 
-->**Mood Detector**\
+->Mood Detector
 
     Detects Mood and some other features of a person and Redirects him/her directly to the options available to him/her on the Explore Page.\
 
 
-->**Explore Options**\
+->Explore Options
 
-    =>***Sad | Angry | Sad Mood***\</br>
+    =>Sad | Angry | Sad Mood
 
         ---This Sections Holds a variety of options for the people having Sad , Angry or disgusted Mood . Features include suggesting Vlogs , Suggesting Movies , Suggesting Web Series , Suggesting Motivational videos .\ 
 
-        ---InWebsite Features\
+        ---InWebsite Feature
         MultiChat\
-          Recommended Music\
-        User Perspective Form\
-        ---Other Features\
-        Online Games\
-          Motivational Quotes\
-        Suggestions / Links to external forums.\
+          Recommended Music
+        User Perspective Form
+        ---Other Features
+        Online Games
+          Motivational Quotes
+        Suggestions / Links to external forums.
 
 
-    =>  ***Happy / Jolly Mood***\
+    =>  Happy / Jolly Mood
 
-        ---Same feautures as above + some bounty points to fill more and more user perspective Happy / Jolly Mood Form.\
-
-
-->**Recommended Music**\
-
-    =>Songs that help users to keep Motivated and ReEnergised .\
+        ---Same feautures as above + some bounty points to fill more and more user perspective Happy / Jolly Mood Form.
 
 
-->**Multi Chat**\
+->Recommended Music
+
+    =>Songs that help users to keep Motivated and ReEnergised .
 
 
-    =>Allows multiple users of Different Mood to Chat Among themselves.\
-->**Contact Us**\
+->Multi Chat
 
 
-    =>Contact Info\
+    =>Allows multiple users of Different Mood to Chat Among themselves.
+->Contact Us
 
 
-->**FeedBack**\
+    =>Contact Info
 
-    =>FeedBack is provided by the users.\
+
+->FeedBack
+
+    =>FeedBack is provided by the users.
     
 
 
