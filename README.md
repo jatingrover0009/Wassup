@@ -8,7 +8,7 @@ Wassup is a Mood Detector Based Web Application which detects a person's Mood an
 
 Technologies Used - NODE JS , face-api.js , SOCKET.IO , HTML , CSS , JAVASCRIPT , BOOTSTRAP
 
-```
+
 Flow Of Website --
 ->**Home Page**<br>
     Shows description of Website . Also shows Summary of the Website<br>
@@ -35,7 +35,7 @@ Flow Of Website --
     =>Contact Info\
 ->**FeedBack**\
     =>FeedBack is provided by the users.\
-    ```
+    
 
 
 
