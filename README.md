@@ -10,16 +10,21 @@ Technologies Used - NODE JS , face-api.js , SOCKET.IO , HTML , CSS , JAVASCRIPT 
 
 
 Flow Of Website --
+
 ->**Home Page**<br>
+
     Shows description of Website . Also shows Summary of the Website<br>
 
 
 ->**Mood Detector**\
+
     Detects Mood and some other features of a person and Redirects him/her directly to the options available to him/her on the Explore Page.\
 
 
 ->**Explore Options**\
+
     =>***Sad | Angry | Sad Mood***\</br>
+
         ---This Sections Holds a variety of options for the people having Sad , Angry or disgusted Mood . Features include suggesting Vlogs , Suggesting Movies , Suggesting Web Series , Suggesting Motivational videos .\ 
 
         ---InWebsite Features\
@@ -31,11 +36,14 @@ Flow Of Website --
           Motivational Quotes\
         Suggestions / Links to external forums.\
 
+
     =>  ***Happy / Jolly Mood***\
+
         ---Same feautures as above + some bounty points to fill more and more user perspective Happy / Jolly Mood Form.\
 
 
 ->**Recommended Music**\
+
     =>Songs that help users to keep Motivated and ReEnergised .\
 
 
@@ -48,8 +56,9 @@ Flow Of Website --
 
     =>Contact Info\
 
-    
+
 ->**FeedBack**\
+
     =>FeedBack is provided by the users.\
     
 
