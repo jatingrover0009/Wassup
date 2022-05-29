@@ -56,19 +56,12 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 Installation:
 `npm install`  
 
-To run Chat Server:
-`npm run start-chat`
+To Start SocketIo Server and serve HTML front page:
+`npm start`
 
-Once the Chat Server has started . You are ready to go with project.
+Server will run at http://localhost:5000
 
-To Run the Website:
-Go to     
-frontPage Folder of the Project
-and then inside it go to index.html page
-Go Live at index.html and website will start at Local Host.
-
-`WASSUP -->  {frontPage} Folder -->  index.html  --> Start your Live Server`. 
-
+Navigate to http://localhost:5000 . 
 ## Reflection
 This was a Three week long project built during my Engage Mentorship at Microsoft. Project involves technologies related to Face - Detection.
 
