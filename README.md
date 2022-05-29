@@ -40,13 +40,9 @@ Flow Of Website --
 
 
 
-## Project Screen Shot(s)
+## Full Demo of Project Functioning
 
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+[Demo Link]https://docs.google.com/document/d/1a6rk-tyZQUC26hR-LefP5VqEoVyKWhTMK4eIHbmICKc/edit?usp=sharing
 
 ## Installation and Setup Instructions
 
