@@ -4,8 +4,8 @@
     "private": true,
     "dependencies": {
       "express": "^4.18.1",
-      "live-server": "^1.2.2",
-      "socket.io": "^4.5.1"
+      "socket.io": "^4.5.1",
+      "concurrently": "^7.2.1"
     },
     "scripts": {
       "start-app": "node ./index.js",
@@ -13,7 +13,7 @@
       "start": "concurrently --kill-others \"npm run start-app\" \"npm run start-chat\""
     },
     "devDependencies": {
-      "concurrently": "^7.2.1"
+  
     }
   }
   
