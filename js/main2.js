@@ -78,19 +78,19 @@ video.addEventListener("playing", () => {
       console.log(input);
       setTimeout(() =>{
         if(input == "sad"){
-          window.location.href ="http://127.0.0.1:5501/explore%20options/explore.html#sad"
+          window.location.href ="/explore%20options/explore.html#sad"
         }
         else if(input == "neutral"){
-          window.location.href ="http://127.0.0.1:5501/explore%20options/explore.html#games"
+          window.location.href ="/explore%20options/explore.html#games"
         }
         else if(input == "happy"){
-          window.location.href ="http://127.0.0.1:5501/explore%20options/explore.html#happy"
+          window.location.href ="/explore%20options/explore.html#happy"
         }
         else if(input == "angry"){
-          window.location.href ="http://127.0.0.1:5501/explore%20options/explore.html#sad"
+          window.location.href ="/explore%20options/explore.html#sad"
         }
         else if(input == "disgusted"){
-          window.location.href ="http://127.0.0.1:5501/explore%20options/explore.html#sad"
+          window.location.href ="/explore%20options/explore.html#sad"
         }
   
 
